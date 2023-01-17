@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Montoya;Andrés;;;
-FN: Andrés Montoya
+N:Galvis;Diego;;;
+FN: Diego Galvis
 ORG: Fresenius Kabi;
 TITLE: Jefe de Ventas
-EMAIL;type=INTERNET;type=WORK;type=pref:andres.montoya@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+57 3175387765
+EMAIL;type=INTERNET;type=WORK;type=pref:diego.galvis@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+57 3153599143
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
